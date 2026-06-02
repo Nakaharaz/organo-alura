@@ -1,0 +1,37 @@
+.employee {
+	width: 280px;
+}
+
+.employee .header {
+	background-color: #f0f0f0;
+	border-radius: 10px 10px 0px 0px;
+}
+.employee img {
+	width: 100px;
+	border-radius: 50%;
+	position: relative;
+	bottom: -50px;
+}
+
+.employee .employee-footer {
+	background: #ffffff;
+	box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.08);
+	border-radius: 0px 0px 10px 10px;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+
+.employee .employee-footer h4 {
+	color: #6278f7;
+	font-size: 18px;
+	line-height: 1em;
+	font-weight: bold;
+}
+
+.employee .employee-footer h5 {
+	font-size: 18px;
+	line-height: 1em;
+	color: #212121;
+	padding: 0 4px;
+	margin: 4px 0px;
+}
